@@ -44,7 +44,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL%20-%20black?style=for-the-badge&logo=MySQL&logocolor=FFFFFF)
 ![Postman](https://img.shields.io/badge/Postman%20-%20black?style=for-the-badge&logo=Postman&logocolor=46D1FD)
 
-### Media
+### Связь
 
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logocolor=FF0000)](https://t.me/aoscoma)
 
