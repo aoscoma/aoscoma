@@ -1,4 +1,4 @@
-![Header](https://github.com/aoscoma/aoscoma/blob/main/assets/AnatoLi%20Oskoma.png)
+![Header](https://github.com/aoscoma/aoscoma/blob/main/assets/AnatoLi-Oskoma.jpg)
 
 ### Обо мне
 
