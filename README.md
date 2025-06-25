@@ -31,7 +31,9 @@
 ### Ссылки
 Сертификаты:
 [Python для начинающих](https://stepik.org/cert/1674926
+
 [Python для продвинутых](https://stepik.org/cert/2501481
+
 [Тестирование ПО](https://stepik.org/cert/2898696)
 
 ### Инструментарий
