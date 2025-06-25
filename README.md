@@ -17,3 +17,5 @@ What i'm learning
 
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logocolor=FF0000)](https://t.me/aoscoma)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoscoma)](https://github.com/anuraghazra/github-readme-stats)
+
